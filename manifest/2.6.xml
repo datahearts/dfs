@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="r7data" fetch="ssh://git@172.16.6.27:222/diffusion/"/>
+  <remote name="r7data-deps" fetch="ssh://git@172.16.6.27:222/diffusion/"/>
+
+  <default remote="r7data" revision="master"/>
+
+  <project name="godbc" path="src/github.com/couchbase/godbc" callsign="GODBC/" revision="adc62033c392ca9df8b5b42c0dda237576b39f9f"/>
+  <project name="gocb" path="src/github.com/couchbase/gocb" callsign="GOCB/" revision="v1.1.2-dfs"/>
+  <project name="go-couchbase" path="src/github.com/couchbase/go-couchbase" callsign="GOCOUCHBASE/" revision="ddbs"/>
+  <project name="gomemcached" path="src/github.com/couchbase/gomemcached" callsign="GOMEMCACHED/" revision="4604300463c4a379d36d1427b17d3284a93f7621"/>
+  <project name="goutils" path="src/github.com/couchbase/goutils" callsign="GOUTILS/" revision="5823a0cbaaa9008406021dc5daf80125ea30bba6"/>
+
+</manifest>

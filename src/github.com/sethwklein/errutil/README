@@ -1,0 +1,12 @@
+What?
+
+Package errutil provides things for working with multiple errors and errors
+from deferred function calls.
+
+Import
+
+import "sethwklein.net/go/errutil"
+
+Documentation
+
+http://godoc.org/sethwklein.net/go/errutil
