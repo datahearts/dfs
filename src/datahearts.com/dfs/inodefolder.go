@@ -1,12 +1,12 @@
 package dfs
 
 import (
-	log "r7data.com/logging"
+	log "datahearts.com/logging"
 	//"encoding/json"
 	"fmt"
 	//"strconv"
 	//"github.com/couchbase/gocb"
-	"r7data.com/minfs"
+	"datahearts.com/minfs"
 	"sync"
 	"sync/atomic"
 	"time"

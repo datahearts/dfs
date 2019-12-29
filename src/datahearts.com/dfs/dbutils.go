@@ -1,9 +1,9 @@
 package dfs
 
 import (
-	common "r7data.com/common"
-	log "r7data.com/logging"
-	"r7data.com/minfs"
+	common "datahearts.com/common"
+	log "datahearts.com/logging"
+	"datahearts.com/minfs"
 	"github.com/couchbase/gocb"
 	"github.com/couchbase/godbc/n1ql"
 	"time"

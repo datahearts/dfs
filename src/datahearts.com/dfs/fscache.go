@@ -1,8 +1,8 @@
 package dfs
 
 import (
-	common "r7data.com/common"
-	log "r7data.com/logging"
+	common "datahearts.com/common"
+	log "datahearts.com/logging"
 	"errors"
 	mc "github.com/couchbase/gomemcached"
 	mcc "github.com/couchbase/gomemcached/client"

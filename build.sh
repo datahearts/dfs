@@ -9,7 +9,7 @@ if [ "$1" = "update" ]; then
 fi
 
 GOPATH=$BUILD_DIR
-go install r7data.com/dfs-service
+go install datahearts.com/dfs-service
 
 cd ..
 tar -czf tarot-dfs.tar.gz ./dfs/bin ./dfs/conf ./dfs/sbin ./dfs/install.sh

@@ -1,7 +1,7 @@
 package dfs
 
 import (
-	log "r7data.com/logging"
+	log "datahearts.com/logging"
 	"fmt"
 )
 

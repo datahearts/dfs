@@ -1,8 +1,8 @@
 package dfs
 
 import (
-	common "r7data.com/common"
-	log "r7data.com/logging"
+	common "datahearts.com/common"
+	log "datahearts.com/logging"
 	"encoding/binary"
 	"errors"
 	"fmt"

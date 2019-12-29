@@ -1,11 +1,11 @@
 package dfs
 
 import (
-	"r7data.com/minfs"
+	"datahearts.com/minfs"
 	"fmt"
 	"github.com/couchbase/gocb"
 	//"github.com/davecgh/go-xdr/xdr2"
-	log "r7data.com/logging"
+	log "datahearts.com/logging"
 	"strconv"
 )
 

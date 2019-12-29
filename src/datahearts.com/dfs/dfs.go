@@ -1,8 +1,8 @@
 package dfs
 
 import (
-	log "r7data.com/logging"
-	"r7data.com/minfs"
+	log "datahearts.com/logging"
+	"datahearts.com/minfs"
 	"os"
 	"time"
 )

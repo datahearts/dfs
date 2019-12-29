@@ -2,7 +2,7 @@ package dfs
 
 import (
 	"container/list"
-	log "r7data.com/logging"
+	log "datahearts.com/logging"
 	"github.com/couchbase/gocb"
 	"github.com/golang/groupcache/lru"
 	"sync"

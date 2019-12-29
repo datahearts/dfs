@@ -2,7 +2,7 @@
 
 
 ## Preinstall
-  Configure the DDBS cluster to create volume1.meta and volume1.data buckets.
+  Configure the Couchbase cluster to create volume1.meta and volume1.data buckets.
   Create a mount dir: mkdir /ddbs-dfs
 
 ## Run
