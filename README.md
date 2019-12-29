@@ -1,4 +1,4 @@
-# Tarot DDBS DFS Server
+# DFS Server
 
 
 ## Preinstall
